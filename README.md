@@ -1,5 +1,5 @@
 # Jaden Perry
-Finance major (Accounting minor) at the University of Alabama, Culverhouse College of Business · 4.0 GPA
+Finance major (Accounting minor) at the University of Alabama, Culverhouse College of Business · 3.98 GPA
 
 Pursuing a career in finance, with a focus on markets and company analysis. I build tools that help me analyze companies, follow markets, and prepare for recruiting.
 
